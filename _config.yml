@@ -26,7 +26,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:  
     - Consulting: "http://www.google.com"
-    - CV: "{{ site.baseurl}}/pdf/Concannon Resume.pdf"
+    - CV: "/pdf/Concannon Resume.pdf"
     - GitHub Pages: "https://pages.github.com/"
   Author's home: "https://www.linkedin.com/in/connor-concannon/"
 
