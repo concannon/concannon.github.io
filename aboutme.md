@@ -7,4 +7,4 @@ My name is Connor Concannon.  I am a PhD candidate at the CUNY Graduate Center a
 
 ### My Interests
 
-Besides the criminal justice system, I am interested in public sector data science, beer brewing, and chasing after toddlers.
+Besides the criminal justice system, I am interested in public sector data science, tinkering, occasionally cooking, and chasing after toddlers.
